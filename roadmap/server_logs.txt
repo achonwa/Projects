@@ -1,0 +1,8 @@
+[2024-12-10 08:30:00] INFO user001 Logged in successfully
+[2024-12-10 08:31:15] ERROR user002 Database connection failed
+[2024-12-10 08:32:45] WARNING user003 Low disk space on server
+[2024-12-10 08:34:00] INFO user004 Uploaded a file: report.pdf
+[2024-12-10 08:35:10] ERROR user001 Timeout while fetching data
+[2024-12-10 08:36:30] INFO user003 Logged out successfully
+[2024-12-10 08:37:45] CRITICAL user002 System crash detected
+[2024-12-10 08:38:50] INFO user005 Changed password
